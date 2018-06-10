@@ -1,7 +1,7 @@
 # Constructora
 A project for constructora maked in angular 6
 ## Development server
- for run this project write ng serve
+ for run this project write 'ng serve'
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
@@ -22,7 +22,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 - MAKE CRUDS
 - IMPLEMENT A LOGIN (JWT)
 - ADD Calculation for the project
-## MODULES
+## Modules
 - ACCOUNT
 - INVENTORY
 - SALES
